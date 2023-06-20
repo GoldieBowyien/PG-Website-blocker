@@ -46,7 +46,7 @@ The Surf Blocker | Browser Blocker is a Python application built using the Tkint
 - Please ensure that you have the necessary permissions to modify the system's hosts file.
 - This application is intended for educational or personal use and should be used responsibly.
 - Blocking websites may affect the functionality of web applications that rely on those websites.
-- Use at your own risk.
+
 
 ## License
 
